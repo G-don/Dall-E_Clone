@@ -1,4 +1,4 @@
-##Study Bro
+##Dall-E Clone 
 
 ![image](https://github.com/G-don/Dall-E_Clone/blob/main/VISUALS/dalleclone.png)
 
@@ -11,6 +11,7 @@
 <img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/redux/redux-original.svg" alt="redux" width="60" height="60"/>
 <img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="60" height="60"/>
 <img src="https://github.com/Drete457/Drete457/blob/master/icons/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
+<img src="https://github.com/Drete457/Drete457/blob/master/icons/mongodb-original-wordmark.svg" alt="mongoDb" width="60" height="60"/>
 </p>
 
 

@@ -1,6 +1,6 @@
 ##Study Bro
 
-![image](https://github.com/G-don/StudyBroAPI/blob/main/VISUALS/1.png)
+![image](https://github.com/G-don/Dall-E_Clone/blob/main/VISUALS/dalleclone.png)
 
 ##TechStack
 

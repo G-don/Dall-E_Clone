@@ -18,7 +18,8 @@
 
 ##Description
 
-This is Dall-E Clone, where you can create your own images from your creativity.Using ChatGPT API, you can create a post review your own images on your account and share with other users.  
+This is Dall-E Clone, where you can create your own images from your creativity, using ChatGPT API, you can create a post, review your own images on your account and share with other users.  
+
 ##Instructions
 
 If you are cloning this project, you will need to
@@ -31,7 +32,7 @@ Enter a text of the description of the image you want and create a new image, th
 
 ##Visuals
 
-To help you better understand the flow and functionality of Dall-E Clone, I have included a package of screenshots. These visuals will give you an insight into the application's interface and guide you through its features.
+Enter the text of the description of the image that you want and create a new image, then decide whether to share it or to publish it.
 
 ##ROADMAP
 
@@ -43,4 +44,4 @@ Please feel free to send me your ideas or suggestions, feedback or feature reque
 
 ##Licence
 
-Study Bro is released under the MIT licence. 
+Dall-E Clone is released under the MIT licence. 
